@@ -1,3 +1,2 @@
 sourcetree test - 180715
-
-branch 생성 테스트 222222
+pull test - 180718
